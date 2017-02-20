@@ -5,7 +5,7 @@ To get NPM running in your project (from your root):
 npm init 
 ```
 
-![NPM initialization wizard](../img/npm-init-wizard.png)
+![NPM initialization wizard](img/npm-init-wizard.png)
 
 Results in package.json:
 ```json
@@ -23,4 +23,4 @@ Results in package.json:
 ```
 
 Located in your project root:
-![package.json](../img/package.json.png)
+![package.json](img/package.json.png)

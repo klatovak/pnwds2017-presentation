@@ -3,9 +3,9 @@
 * A tool that runs locally and retrieves the packages our project depends on.
 * Configurable - We can configure the tool to install the packages multiple times and manage version numbers.
 
-![NPM](../img/npm.svg)
-![Bower](../img/bower-logo.svg)
-![Composer](../img/logo-composer-transparent.png) 
+![NPM](img/npm.svg)
+![Bower](img/bower-logo.svg)
+![Composer](img/logo-composer-transparent.png) 
 
 ~Notes:
 * A tool that runs locally and retrieves the packages our project depends on.

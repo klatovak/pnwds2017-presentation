@@ -5,7 +5,7 @@ To get Bower running in your project (from your root):
 bower init 
 ```
 
-![Bower initialization wizard](../img/bower-init-wizard.png)
+![Bower initialization wizard](img/bower-init-wizard.png)
 
 Results in bower.json:
 ```json
@@ -29,4 +29,4 @@ Results in bower.json:
 ```
 
 Located in your project root:
-![bower.json](../img/bower.json.png)
+![bower.json](img/bower.json.png)
